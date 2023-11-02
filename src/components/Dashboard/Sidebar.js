@@ -2,7 +2,7 @@ import React from 'react';
 
 const Sidebar = () => {
   return (
-    <div style={{ backgroundColor: 'blue', width: '200px', height: '100vh' }}>
+    <div className='bg-blue-950 h-screen w-1/6'>
       <ul class="text-white-600">
         <li>Users</li>
         <li>Devotions</li>
